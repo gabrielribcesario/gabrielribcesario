@@ -37,11 +37,11 @@
     <img src="https://cdn.worldvectorlogo.com/logos/comsol-logo.svg" alt="comsol" width="150" height="45"/></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielribcesario&hide=jupyter%20notebook)
 
 <!--
 **gabrielribcesario/gabrielribcesario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielribcesario&hide=jupyter%20notebook)
 Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
