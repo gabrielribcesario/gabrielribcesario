@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **electronics and High-Energy Physics**
 
-<h4 align="left">Languages:</h4>
+<h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.ni.com/en/shop/labview.html" target="_blank">
       <img src="https://cdn.worldvectorlogo.com/logos/national-instruments-labview.svg" alt="labview" width="45" height="45"/></a>
@@ -23,7 +23,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="fortran" width="45" height="45"/></a>
 </p>
 
-<h4 align="left">Some of the tools I use:</h4>
+<h3 align="left">Some of the tools I use:</h3>
 <p align="left">
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow" width="45" height="45"/></a>
