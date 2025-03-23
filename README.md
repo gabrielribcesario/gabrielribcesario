@@ -27,12 +27,12 @@
 <p align="left">
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow" width="45" height="45"/></a>
-  <a href="https://root.cern/" target="_blank">
-    <img src="https://root.cern/img/logos/ROOT_Logo/logos/osx/osx-icon-128.png" alt="root" width="45" height="45"/></a> 
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>
+  <a href="https://root.cern/" target="_blank">
+    <img src="https://root.cern/img/logos/ROOT_Logo/logos/osx/osx-icon-128.png" alt="root" width="45" height="45"/></a> 
   <a href="https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html" target="_blank">
-    <img src="https://companieslogo.com/img/orig/LLTC.defunct.2017-444ce5d2.svg?t=1731420040&download=true" alt="ltspice" width="70" height="45"/></a>
+    <img src="https://companieslogo.com/img/orig/LLTC.defunct.2017.D-bbd2c137.svg?t=1731420040&download=false" alt="ltspice" width="70" height="45"/></a>
   <a href="https://www.comsol.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/comsol-logo.svg" alt="comsol" width="150" height="45"/></a>
 </p>
