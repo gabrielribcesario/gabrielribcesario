@@ -3,11 +3,11 @@
 
 - 💼 I'm currently working at the **Industrial Networks and Automation Systems Laboratory (LARISA-UERJ)**
 
-- 🔭 I’m currently working on **Machine Learning models and simulations of particle detectors**
+- 🔭 I’m currently collaborating on **Machine Learning models and simulations of particle detectors**
 
 - 🌱 I’m currently learning **electronics and High-Energy Physics**
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">💻 Languages:</h3>
 <p align="left">
   <a href="https://www.ni.com/en/shop/labview.html" target="_blank">
       <img src="https://cdn.worldvectorlogo.com/logos/national-instruments-labview.svg" alt="labview" width="45" height="45"/></a>
@@ -23,18 +23,28 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="fortran" width="45" height="45"/></a>
 </p>
 
-<h3 align="left">Some of the tools I use:</h3>
+<h3 align="left">🛠️ Some of the tools I use:</h3>
 <p align="left">
   <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow" width="45" height="45"/></a>
+      <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow" width="45" height="45"/></a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>
-  <a href="https://root.cern/" target="_blank">
-    <img src="https://root.cern/img/logos/ROOT_Logo/logos/osx/osx-icon-128.png" alt="root" width="45" height="45"/></a> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>
   <a href="https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html" target="_blank">
-    <img src="https://companieslogo.com/img/orig/LLTC.defunct.2017.D-bbd2c137.svg?t=1731420040&download=false" alt="ltspice" width="70" height="45"/></a>
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/9699744/ltspice.png?width=96" alt="ltspice" width="45" height="45"/></a>
+  <a href="https://root.cern/" target="_blank">
+      <img src="https://root.cern/img/logos/ROOT_Logo/logos/osx/osx-icon-128.png" alt="root" width="45" height="45"/></a> 
   <a href="https://www.comsol.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/comsol-logo.svg" alt="comsol" width="150" height="45"/></a>
+      <img src="https://cdn.worldvectorlogo.com/logos/comsol-logo.svg" alt="comsol" width="150" height="45"/></a>
+</p>
+
+<h3 align="left">➕ How to reach me and more:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/gribeirocs/" target="_blank">
+      <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="45" height="45"/></a>
+  <a href="mailto:gabrielc.ribeiro@hotmail.com" target="_blank">
+      <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" alt="email" width="45" height="45"/></a>
+  <a href="https://orcid.org/0009-0004-1811-1224" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="orcid" width="45" height="45"/></a>
 </p>
 
 
