@@ -37,7 +37,7 @@
       <img src="https://cdn.worldvectorlogo.com/logos/comsol-logo.svg" alt="comsol" width="150" height="45"/></a>
 </p>
 
-<h3 align="left">➕ How to reach me and more:</h3>
+<h3 align="left">➕ How to reach me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/gribeirocs/" target="_blank">
       <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="45" height="45"/></a>
