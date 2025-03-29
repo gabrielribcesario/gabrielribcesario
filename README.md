@@ -23,7 +23,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="fortran" width="45" height="45"/></a>
 </p>
 
-<h3 align="left">🛠️ Some of the tools I use:</h3>
+<h3 align="left">🛠️ Softwares and tools:</h3>
 <p align="left">
   <a href="https://www.tensorflow.org/" target="_blank">
       <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow" width="45" height="45"/></a>
