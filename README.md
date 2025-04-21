@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **electronics and High-Energy Physics**
 
+- 😄 Pronouns: **He/Him**
+
 <h3 align="left">💻 Languages:</h3>
 <p align="left">
   <a href="https://www.ni.com/en/shop/labview.html" target="_blank">
@@ -23,6 +25,9 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="fortran" width="45" height="45"/></a>
 </p>
 
+<!-- Jupyter Notebook cell output uses a lot of storage space, so exclude language. -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielribcesario&hide=jupyter%20notebook&layout=compact&theme=transparent&locale=en)
+
 <h3 align="left">🛠️ Softwares and tools:</h3>
 <p align="left">
   <a href="https://www.tensorflow.org/" target="_blank">
@@ -37,7 +42,7 @@
       <img src="https://cdn.worldvectorlogo.com/logos/comsol-logo.svg" alt="comsol" width="150" height="45"/></a>
 </p>
 
-<h3 align="left">➕ How to reach me:</h3>
+<h3 align="left">📫 How to reach me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/gribeirocs/" target="_blank">
       <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="45" height="45"/></a>
@@ -47,11 +52,9 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="orcid" width="45" height="45"/></a>
 </p>
 
-
 <!--
 **gabrielribcesario/gabrielribcesario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielribcesario&hide=jupyter%20notebook)
 Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
