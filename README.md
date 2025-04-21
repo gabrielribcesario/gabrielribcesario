@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **electronics and High-Energy Physics**
 
-- 😄 Pronouns: **He/Him**
-
 <h3 align="left">💻 Languages:</h3>
 <p align="left">
   <a href="https://www.ni.com/en/shop/labview.html" target="_blank">
