@@ -53,34 +53,18 @@ Exclude CMake as well.
 
 <p align="left">
     <h2>🚀 Some of my hobby projects:</h2>
-    <li>
-        <a href="https://github.com/gabrielribcesario/CTFS" target="_blank">
-            Continuous Time Fourier Series</a>
-        &nbsp;
-        <img align="middle" src="figures/sawtooth.gif" alt="ctfs" width="50" onmouseover="this.width='600',this.align='right'" onmouseout="this.width='50',this.align='middle'"/>
-    </li>
-    <p></p>
-    <li>
-        <a href="https://github.com/gabrielribcesario/U-Net-Cell-Segmentation" target="_blank">
-            U-Net Cell Segmentation</a>
-        &nbsp;
-        <img align="middle" src="figures/dic-hela007.png" alt="unet" width="50" onmouseover="this.width='750',this.align='right'" onmouseout="this.width='50',this.align='middle'"/>
-    </li>
-    <p></p>
-    <!-- <li>
-        <a href="https://github.com/gabrielribcesario/MultiwireProportionalChamber" target="_blank">
-            Multiwire Proportional Chamber</a>
-        &nbsp;
-        <img align="middle" src="figures/sawtooth.gif" alt="mwpc" width="50" onmouseover="this.width='450',this.align='right'" onmouseout="this.width='50',this.align='middle'"/>
-    </li>
-    <p></p>
-    <li>
-        <a href="https://github.com/gabrielribcesario/ConjugateGradient" target="_blank">
-            Conjugate Gradient</a>
-        &nbsp;
-        <img align="middle" src="figures/sawtooth.gif" alt="cg" width="50" onmouseover="this.width='450',this.align='right'" onmouseout="this.width='50',this.align='middle'"/>
-    </li> -->
 </p>
+
+<center>
+
+| [Continuous Time Fourier Series][ctfs repo] | <a href="https://github.com/gabrielribcesario/CTFS" target="_blank"><img src="figures/sawtooth.gif" alt="ctfs" width="500"/></a> |
+| --- | --- |
+| [U-Net Cell Segmentation][u-net repo] | <a href="https://github.com/gabrielribcesario/U-Net-Cell-Segmentation" target="_blank"><img src="figures/dic-hela007.png" alt="unet" width="500"/></a> |
+
+</center>
+
+[ctfs repo]: https://github.com/gabrielribcesario/CTFS
+[u-net repo]: https://github.com/gabrielribcesario/U-Net-Cell-Segmentation
 
 <!--
 **gabrielribcesario/gabrielribcesario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
