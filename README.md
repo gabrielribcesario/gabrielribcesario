@@ -27,8 +27,8 @@
 Jupyter Notebook cell output uses a lot of storage space, so exclude language;
 Exclude CMake as well.
 -->
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielribcesario&hide=jupyter%20notebook,cmake&layout=compact&theme=transparent&locale=en&langs_count=8"/></a>
+<!-- <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielribcesario&hide=jupyter%20notebook,cmake&layout=compact&theme=transparent&locale=en&langs_count=8"/></a> -->
 
 <p align="left">
     <h2>🛠️ Softwares and tools:</h2>
@@ -59,12 +59,14 @@ Exclude CMake as well.
 
 | [Continuous Time Fourier Series][ctfs repo] | <a href="https://github.com/gabrielribcesario/CTFS" target="_blank"><img src="figures/sawtooth.gif" alt="ctfs" width="500"/></a> |
 | --- | --- |
-| [U-Net Cell Segmentation][u-net repo] | <a href="https://github.com/gabrielribcesario/U-Net-Cell-Segmentation" target="_blank"><img src="figures/dic-hela007.png" alt="unet" width="500"/></a> |
+| [U-Net Cell Segmentation][unet repo] | <a href="https://github.com/gabrielribcesario/DIC-C2DH-HeLa" target="_blank"><img src="figures/dic-hela007.png" alt="unet" width="500"/></a> |
+<!-- | [Conjugate Gradient][cg repo] | <a href="https://github.com/gabrielribcesario/ConjugateGradient" target="_blank"><img src="figures/cg.png" alt="unet" width="500"/></a> | <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="45" height="45"/><br/><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cpp" width="45" height="45"/> | -->
 
 </center>
 
 [ctfs repo]: https://github.com/gabrielribcesario/CTFS
-[u-net repo]: https://github.com/gabrielribcesario/U-Net-Cell-Segmentation
+[unet repo]: https://github.com/gabrielribcesario/U-Net-Cell-Segmentation
+<!-- [cg repo]: https://github.com/gabrielribcesario/ConjugateGradient -->
 
 <!--
 **gabrielribcesario/gabrielribcesario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
