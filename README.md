@@ -27,8 +27,8 @@
 Jupyter Notebook cell output uses a lot of storage space, so exclude language;
 Exclude CMake as well.
 -->
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielribcesario&hide=jupyter%20notebook,cmake&layout=compact&theme=transparent&locale=en&langs_count=8"/></a>
+<!-- <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielribcesario&hide=jupyter%20notebook,cmake&layout=compact&theme=transparent&locale=en&langs_count=8"/></a> -->
 
 <p align="left">
     <h2>🛠️ Softwares and tools:</h2>
@@ -57,8 +57,9 @@ Exclude CMake as well.
 
 <center>
 
-| [Continuous Time Fourier Series][ctfs repo] | <a href="https://github.com/gabrielribcesario/CTFS" target="_blank"><img src="figures/sawtooth.gif" alt="ctfs" width="500"/></a> |
+|  |  |
 | --- | --- |
+| [Continuous Time Fourier Series][ctfs repo] | <a href="https://github.com/gabrielribcesario/CTFS" target="_blank"><img src="figures/sawtooth.gif" alt="ctfs" width="500"/></a> |
 | [U-Net Cell Segmentation][u-net repo] | <a href="https://github.com/gabrielribcesario/U-Net-Cell-Segmentation" target="_blank"><img src="figures/dic-hela007.png" alt="unet" width="500"/></a> |
 
 </center>
